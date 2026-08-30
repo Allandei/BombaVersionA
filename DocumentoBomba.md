@@ -17,7 +17,7 @@ El desarrollo de sistemas médicos automatizados es fundamental para minimizar l
 
 ## 3. Diagrama de Contexto
 
-![Diagrama de Contexto](image1.png)
+![Diagrama de Contexto](image1.jpg)
 
 **Usuario (Enfermería):** Configura el volumen total y la tasa de infusión en la HMI. Recibe alertas acústicas locales ante fallos.
 
