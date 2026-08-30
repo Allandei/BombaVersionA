@@ -1,0 +1,6 @@
+node_modules/
+DASHBOARD/node_modules/
+.pio/
+.vscode/
+*.bin
+*.elf

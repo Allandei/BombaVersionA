@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "bomba-de-infusion-3009c",
+  "private_key_id": "1a313dec20a8cc199a6b3c6a2f11f4d81a475c0e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDu72GLcibeD63F\nsZD+7Qgd1wXY/jLuAejseHeH8OSIY4SNHWtgGHD59QhrVP4dtdYHDNaEtCkkUFqD\nrPf2LsYhvU05B8CF45mtxRkoCgxicG2/HtLv8q/Mz1s6B2feC1yXUNDEit064aT5\np9DofMzs7DkgJlZbVreMaQR8K2N4HehtXHWm7nVYg9wLuZrklOpS4Ikzpyd1KXEm\n5WfuA/t6fU20GcyUfzHZhwxmN0VnT6EyZbzV3mAZygh1dxpGmYKHG9BXS+wRznBE\nM/qE5SvWkKDvGp+LmE4wfzj51hoJK+4myUKp0VP+SET2ZIeJtIBvOOaU6/WkKdVS\nbfUOJz/dAgMBAAECggEABHEGOOufDdcwRYHCvn5k/XsDBJDbHQIDlKu7mxcPBHsH\nGoFuvstNhFP5+1bJ338DEr/6F97qed6VhCeZt2WQsM1eS15ZxZNgxrJogI5JQyYw\nYBJgXO3/txiuqzI6i83dw4FQ1Cp5qM/Le4mTUFMLkybj+/VCezGuOUm1d+Jtl6y7\ndJjUZ3FeWY5M3xjWcigKmcPyqZ3nms+Hmmm53g7mDlCz93ipkChLLnpaGaXTXR2Q\n7wzvqk7QyTkn3WARrLl08lz62dPLOb/foFhbJ9B8nH25gcljl30IhhJ+PKDEdppw\nPBIDK6Qljfx5aVY2hmgN/x42RWICElqdysh8P7kEQQKBgQD5oLgME1Wfbo73nQZJ\n32TAfG0EykAkyfI2xiJjKd3I+b4p54Lzm4gFJm/SxDMFgXFbLcHLEEuKEJozMAEC\nAJ4LjS3rwJNltk4s0blr/3q1Qm+Z7HfRSl1vIz1u5V4RNCTsuvb9QNJX1T9HFJfe\n09aVaOehspVeqAUz8bBQ2F97wQKBgQD1CMlleWCq2gHUvwi6dT8iXaodlp7O0x0V\ngsmUOvqEaV3xzWcWKRCHrz+pAXy1YIz+EvUDG/8kaLTiWIuSJNulPo35Azn1Wntn\nYyRz5ycGUTwVPqbtzRpMJLx/TE/hCcrjQ7z/I7Bnq5O0N0yb+NTZmXmWFRSQSh36\n+FlmLQD7HQKBgQDKy/D5jnOPFIh9TUoglaYKYotGyvCVcqKeMRUarpaJgasl6/kM\n45v7YyCRf+dbX6+xvVilGdXkklxTnXoUIGBFTiqyTj7w8MxNyQv0WxdbTl/QErW8\nh8ekVGLCRwDGxTACSloBoLnBtXK00lwXIM5Bj3oueSC0R5gCfSUaaM4ZgQKBgQDc\n+YWWS3XP3jbUg0r9zAqZlVp6wICLCHwsD/x1/xI5I0SjcZdLttC/bF2+riam82Fz\nJ+lpWnAnh33Iug10SGUEintCW5SDHYw4WoJfO9BHtC65Af1MazESBfcv3cQTr98W\nQNpKRQcrFuJnHY+rASYC7pNls7ENxqlu0VTd/ivqSQKBgQDpY9NAGrlN5yIRIYkY\nq7evSCUE6hi2SJxQyGVO19ieoyf2TLzzqjXe+PM9WIPgLrWjtHLoo70U2uGr33HJ\nF81a58EFxIVSEEvjGYaC2xy9eF7TjHniUbATXtyNc0iqbusdj8DKachn4DBOiZa+\nG47E3F/o5xqli67em0NmSd0JNg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@bomba-de-infusion-3009c.iam.gserviceaccount.com",
+  "client_id": "109090892670733370104",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40bomba-de-infusion-3009c.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
